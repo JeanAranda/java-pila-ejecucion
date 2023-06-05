@@ -15,6 +15,6 @@ public class Flujo {
     for(int i =1; i<= 5; i++){
       System.out.println(i);
     }
-    System.out.println("Fi de metodo2");
+    System.out.println("Fin de metodo2");
   }
 }
