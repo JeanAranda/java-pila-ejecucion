@@ -1,6 +1,6 @@
 
 public class Cuenta {
-	void deposita() {
+	void deposita() throws MiException{
 		
 	}
 }
